@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's calamity, foreshewn in Germanie's misery. Being the dire consequent of the growth of popery. Represented as a shadow of those popish, worse than heathenish, persecutions which befel Germany, from 1630 to 1635. And nothing but speedy repentance can prevent the like befalling us. VVith an account of the prodigies that preceeded those dreadful times. Together with the Bible-persecutions, from Cain in the Old Testament, to Herod the Great, in the New.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22496</idno><idno type="EEBO-CITATION">99885392</idno>
+  <idno type="VID">201335</idno>
+  <idno type="EEBO-PROQUEST">2264214321</idno>
+  
+            <idno type="STC">Wing E2951</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[59]</idno>
+            <idno type="STC">ESTC R222979</idno>
+            <idno type="PROQUEST">ocm99885392</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885392e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201335)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[70])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's calamity, foreshewn in Germanie's misery. Being the dire consequent of the growth of popery. Represented as a shadow of those popish, worse than heathenish, persecutions which befel Germany, from 1630 to 1635. And nothing but speedy repentance can prevent the like befalling us. VVith an account of the prodigies that preceeded those dreadful times. Together with the Bible-persecutions, from Cain in the Old Testament, to Herod the Great, in the New.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Dawks. Sold by Langly Curtis, in Goat-Court, on Ludgate-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; date of publication from Wing.</note>
+                  <note>Initial letter.</note>
+                  <note>Printed in double columns.</note>
+                  <note>Advertisement for other publications in imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Atrocities --  Germany --  Early works to 1800.</term>
+               <term type="topical_term">Protestants --  Germany --  Early works to 1800.</term>
+               <term type="topical_term">Persecution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201335:1"/>
+            <head>ENGLANDS CALAMITY, <hi>Foreshewn in</hi> GERMANIE'S <hi>Misery. Being the dire</hi> Consequent <hi>of the</hi> Growth of POPERY.</head>
+            <p>Represented as a Shadow of those Popish, worse than Heathenish, Persecutions which befel <hi>Germany,</hi> from 1630 to 1635. And nothing but speedy Repentance can prevent the like befalling us. VVith an Account of the PRODIGIES that preceeded those Dreadful Times. <hi>Together with the</hi> Bible-Persecutions, <hi>from</hi> Cain <hi>in the Old Testament, to</hi> Herod <hi>the Great, in the New.</hi>
+            </p>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Protestants</hi> burning for the true Christian Religion, and that the Papists may have the fairer Pretence for their Cruelty, they must be call'd <hi>Hereticks;</hi> then they flatter themselves, and <hi>think they do God Ser<g ref="char:EOLhyphen"/>vice.</hi>
+                  </head>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>Your Wives and Daughters ravish'd, else their Throats to be cut, or other devilish torments inflicted on them: Together with little Chil<g ref="char:EOLhyphen"/>drens Brains dash'd against the Walls. For nothing say the Papists is too bad for Hereticks Brats.</head>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> The Distressed <hi>Protestants</hi> persecuted by the Cruel <hi>Imperia<g ref="char:EOLhyphen"/>lists</hi> in <hi>Germany:</hi> from 1630, to 1635.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">P</seg>ASWALICK</hi> was taken by Storm, by the Imperi<g ref="char:EOLhyphen"/>alists, where they brayn'd all the <hi>Sweedish</hi> Soul<g ref="char:EOLhyphen"/>diers: and not resting here, they ravish Virgins and Child-bed women: slew the Men, and fired the Houses over their heads: They Massacred Divines, burnt down Protestant Churches. <hi>Poor</hi> England's <hi>fires has not yet bin in Hostility, tho by their Treachery.</hi>
+               </p>
+               <p>131. <hi>Tilly</hi> and <hi>Pappenhein,</hi> in 12 hours space burnt down; and of old and young, Twenty six thousand slain, burnt and flung into the River <hi>Elve.</hi>
+               </p>
+               <p>Ladies and Gentlewomen yoak'd together, forc'd into the Woods, in Frost and Snow, there stript and ravish'd.</p>
+               <p>
+                  <hi>Hexter</hi> being taken, such was the infernal Rage of the Papists, They hewed in pieces all Sexes, and Ages; and what the Cruel Sword left, the flaming fire devoured.</p>
+               <p>At <hi>Griphenburge,</hi> they starved the Senators. The <hi>Heidelburg</hi> Divines and Burgers were served with Bread and water.</p>
+               <p>In <hi>Pomeren,</hi> the <hi>Frankendales</hi> were used worse than Dogs, the poor Inhabitants forc'd to eat their own dung. With Cords they twisted the heads of some about, until the blood started out of the Nose and Eies.</p>
+               <p>They tyed burning Matches to the Tongue, Noses, Eyes, Cheeks, Breasts and Legs: Yea! and the Privy parts of Women they stuff'd with Gun-powder and fired!!</p>
+               <p>Through the flesh of some they drew strong Cords; some they roast<g ref="char:EOLhyphen"/>ed, others they smok'd like Hogs. The rest they bak'd in Ovens.</p>
+               <p>Some they tyed Arms and Legs together backwards, and with rags ram'd up their Mouths, to prevent their praying. Some Faces they plain'd with Chisels; some they dragg'd through the Streets, wounded with Axes and Hammers; stinking water and Urine was forc'd down the Throats of many, and so fill'd, that by leisure they might swell, and so perish by degrees. To others they constrain'd knotted Clouts down their Throats, and pull'd them up again with pack<g ref="char:EOLhyphen"/>thread. They s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w'd off the Legs of some.</p>
+               <p>A Reverend Divine was bound to a table, and Tortur'd with a Cat, prepared by Hunger, and with iron sharp pins forced the Cat to more Cruelty.</p>
+               <p>The <hi>Croats</hi> devoured young Infants. Virgins shamefully were de<g ref="char:EOLhyphen"/>flowred, women with Child, and women in Childbed forc'd to yield to their Beastliness.</p>
+               <q>
+                  <l>Yet Wondronsly were Warning Pieces shown,</l>
+                  <l>Before the fury of Provoked Wrath's made kn<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wn.</l>
+               </q>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> Wonderful Prodigies seen before <hi>Germanies</hi> Miseries.</head>
+               <p>A Blood red Comet with a flaming Beard, did appear for 30 dayes; <hi>Anno</hi> 1618.</p>
+               <p>1619. At <hi>Grauingen</hi> was seen a Blazing star: and two Armies were seen, one in the East, the other, in the North: and seem to engage, and one worsted.</p>
+               <p>1619. Also at <hi>Wien,</hi> water turn'd to Blood: Three Suns did appear at once; and the Thuder of great Guns were heard.</p>
+               <p>Two Armies were seen in the day-time ingaged in fight, 1621.</p>
+               <p>1622. At <hi>Wittingburg</hi> and <hi>Darmstad,</hi> it raind Blood, so much that: Houses and stone walls were stained therewith, Trees weptred Drops, the sickles of Reapers at Harvest were besmeared with Blood.</p>
+               <p>1624. At <hi>Ratsboune,</hi> a strange Tempest battered down 400 houses, tore Trees up by the roots, and all in a quarter of an hour.</p>
+               <p>1625. Near <hi>Troppaw,</hi> a great number of <hi>jack-daws</hi> fought very furi<g ref="char:EOLhyphen"/>ously, and many were killed. Also in Lower <hi>Saxony,</hi> a woman cut<g ref="char:EOLhyphen"/>ting a loaf of Bread, it did bleed.</p>
+               <p>1631. At <hi>Magdenburg</hi> Siege, a Captain's wife dy'd in Child-bed, her body being ript up, in her Womb was a Boy as big as one of three years old, having an Helmet and a Breast-plate on, and great Boots after the French Fashion, and by his side, a Bullet pouch.</p>
+               <p>1633. At <hi>Altenburge,</hi> If any did but touch a Fish-pond turnd to Blood, he could not wash off the stinking smell in three dayes.</p>
+               <p>1635. At <hi>Henssen</hi> two Armies of strange Birds fought in the Air.</p>
+               <p>A Randevous of Dogs meet and joyn; and Musketeers attempting to part them, the Dogs slew nine of them, and forc'd the rest to flight.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> Persecutions in the Old and New <hi>Testaments.</hi>
+               </head>
+               <list>
+                  <item>CAin slays Abel, <hi>Gen.</hi> 4.</item>
+                  <item>Curst Cham mocks at his Fathers nakedness, <hi>Gen</hi> 9.</item>
+                  <item>Just Lot is derided, <hi>Gen.</hi> 19. Ishmael derides Isaac, <hi>Gen.</hi> 21.</item>
+                  <item>Jacob is hated by Esau; <hi>Gen.</hi> 27.</item>
+                  <item>Joseph sold by his Brethren, <hi>Gen.</hi> 37.</item>
+                  <item>Israels First-born stifled or drown'd, <hi>Exod.</hi> 1. 11. 15, &amp;c.</item>
+                  <item>Israel opprest, <hi>Exod.</hi> 2 &amp; <hi>Juges</hi> 3. Hide themselves <hi>Jud.</hi> 6.</item>
+                  <item>Midians oppression 1 <hi>Sam,</hi> 13.</item>
+                  <item>Philistins destroy, <hi>Judg.</hi> 6. Chap. 10. Chap. 13.</item>
+                  <item>No Smith in Irael, 1 <hi>Sam.</hi> 4.</item>
+                  <item>Saul persecutes David, 1 <hi>Sam.</hi> 19.</item>
+                  <item>Shemei rails at him: 2 <hi>Sam.</hi> 16.</item>
+                  <item>Shishak Israels rod, 1 <hi>Kings.</hi> 14.</item>
+                  <item>Asa imprisons Gods prophets, 2 <hi>Chron.</hi> 16.</item>
+                  <item>Ahab hates Mica. 2 <hi>Chron.</hi> 18.</item>
+                  <item>In Jehosaphats Reign the Church is storm'd at, 2 <hi>Chron.</hi> 20.</item>
+                  <item>Elijah (despised by Jesabel) fell, &amp; many Prophets, 1 <hi>Kin.</hi> 19.</item>
+                  <item>Elisha suffers by Jehoram▪ 1 <hi>King,</hi> 18.</item>
+                  <item>Joash slayes Zechariah for his Reproof, 2 <hi>Kings</hi> 6.</item>
+                  <item>Thousands brought into Captivity, 2 <hi>Chron,</hi> 21. &amp; 2 <hi>Chr.</hi> 24.</item>
+                  <item>Edomites, Assyrians and Philistins, 2 <hi>Chron.</hi> 28.</item>
+                  <item>Jeremiah put i'th' Stocks: cast into the Dungeon, <hi>Jer.</hi> 18.</item>
+                  <item>The III Children cast into the fiery Furnace, <hi>Dan.</hi> 3.</item>
+                  <item>Daniel put into the Lyons Den, <hi>Dan.</hi> 6.</item>
+                  <item>Haman persecutes Mordecai, <hi>Ester</hi> 3.</item>
+                  <item>And a Decree past to murder Israels race. <hi>Ezra</hi> 4.</item>
+                  <item>Israel disturb'd in building the Temple, <hi>Neh.</hi> 6.</item>
+               </list>
+               <list>
+                  <head>New Testament Persecutions.</head>
+                  <item>HErod slayes the Israelites Children, supposing also to have slain JESUS, <hi>Matth.</hi> 1.</item>
+                  <item>Herod the Less beheads John Baptist, <hi>Matth.</hi> 14.</item>
+                  <item>Peter and John imprisoned for preaching Christ, and restoring a man, born lame to his limbs, <hi>Acts</hi> 4.</item>
+                  <item>The Apostles imprisoned; and delivered by an Angel, <hi>Acts</hi> 5.</item>
+                  <item>Stephen ston'd▪ <hi>Acts</hi> 6. A General Persecution, <hi>Acts</hi> 7:</item>
+                  <item>Saul persecutes the Christians <hi>Acts</hi> 9.</item>
+                  <item>Saul converted is persecuted, <hi>Acts</hi> 12.</item>
+                  <item>James is beheaded, Peter delivered, Paul, Silas and Barnabas beaten, whip and forc'd to flee, <hi>Acts</hi> 3.</item>
+                  <item>Paul ston'd at Lystra,—supposing he had been dead. <hi>Acts</hi> 14. 19, 20.</item>
+                  <item>Paul was martyred at Rome. James cast from a Pinacle.</item>
+                  <item>Titus sack'd Jerusalem and the Temple.</item>
+                  <item>Andrew and Philip were crucified. Bartholomew slain with a Club. Thomas slain with a Dart. Matthew thrust through.</item>
+                  <item>Simon Zelotes died upon the Cross. Mathias beheaded.</item>
+                  <item>Judas, brother to James, murdered.</item>
+               </list>
+               <p>Hence See that the Enmity between the Seed of the Woman and the Seed of the Serpent, is of long Standing.</p>
+               <p>
+                  <hi>Faithfully collected from History by a lover of true Protestants, this Age producing many false ones to their own Eternal Ruine.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London, Printed by</hi> T. Dawks. <hi>Sold by</hi> Langly Curtis, <hi>in</hi> Goat-Court, <hi>on</hi> Ludgate<hi>-hill. Where also you may have</hi> Godfreys Murder made Visible. 2. Dr. Otes his Vindication. 3. The Beggars Petition, to <hi>Henry</hi> VIII. against Popery. 77.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
